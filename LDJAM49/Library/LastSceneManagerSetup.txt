@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/Scenes/GameScenes/MainScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/GameScenes/DarkScene.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/GameScenes/UI.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/GameScenes/LightScene.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/GameScenes/Managers.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/GameScenes/Portals.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
